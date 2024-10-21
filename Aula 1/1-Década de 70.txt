@@ -1,0 +1,11 @@
+1-Década de 70
+
+2-Edgar Frank Codd
+
+3-O banco de dados é onde é armazenado os dados adicionados a ele, o sistema gerenciador de banco de dados é o programa usado para manipular as informações no banco de dados e o sistema de banco de dados é o que faz as funcionalidades do banco de dados
+
+4-Armazenamento de dados, segurança, manipulação de dados
+
+5-Conceitual, logico e físico
+
+6-Segurança,maneabilidade,trabalho em equipe
